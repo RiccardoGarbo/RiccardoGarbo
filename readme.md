@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a junior Full Stack Web Developer. Here you'll
 
 ## 🛠 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=white)
